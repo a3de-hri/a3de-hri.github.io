@@ -1,6 +1,11 @@
 
+{% if site.sections.speakers %}
+
+<a class="anchor" id="speakers"></a>
+
 ## Invited Speakers
 
+{% if site.date.speakers.size > 0 %}
 
 <div class="row speakers">
 {%- assign i = 0 -%}
@@ -31,3 +36,12 @@
 {% endfor %}
 
 </div>
+
+
+{% else %} 
+
+Coming soon!
+
+{% endif %}
+
+{% endif %}

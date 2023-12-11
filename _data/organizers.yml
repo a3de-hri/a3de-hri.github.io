@@ -16,11 +16,11 @@
 #   affil: McGill University / MILA, Montreal
 #   category: organizers
 
-# - name: Reuben Aronson
-#   url: http://reuben-aronson.com/
-#   photo: RA.jpg
-#   affil: Tufts University
-#   category: organizers
+- name: Reuben Aronson
+  url: http://reuben-aronson.com/
+  photo: RA.jpg
+  affil: Tufts University
+  category: organizers
 
 # - name: Ruohan Zhang
 #   url: https://ai.stanford.edu/~zharu/
