@@ -2,5 +2,4 @@ intro goes here
 
 ## Topics of Interest
 
-put some meaningful topics here
-
+Let's talk about something
