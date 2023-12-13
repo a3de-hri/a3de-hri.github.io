@@ -1,41 +1,57 @@
-# - name: Akanksha Saran
-#   url: https://asaran.github.io/
-#   photo: AS.jpg
-#   affil: Microsoft Research
-#   category: organizers
 
-# - name: Abhijat Biswas
-#   url: https://www.andrew.cmu.edu/user/abhijatb/
-#   photo: AB.jpg
-#   affil: Carnegie Mellon University
-#   category: organizers
-
-# - name: Khimya Khetarpal
-#   url: https://kkhetarpal.github.io/
-#   photo: KK.jpg
-#   affil: McGill University / MILA, Montreal
-#   category: organizers
 
 - name: Reuben Aronson
   url: http://reuben-aronson.com/
   photo: RA.jpg
-  affil: Tufts University
+  affil: Tufts University <br> Department of Computer Science
   category: organizers
 
-# - name: Ruohan Zhang
-#   url: https://ai.stanford.edu/~zharu/
-#   photo: RZ.jpg
-#   affil: Stanford University
-#   category: organizers
+- name: Katherine H. Allen  
+  affil: Tufts University <br>   Department of Mechanical Engineering  
+  email: kat.allen@tufts.edu  
+  category: organizers
 
-# - name: Grace Lindsay
-#   url: https://gracewlindsay.com/
-#   photo: GL.jpg
-#   affil: University College London / New York University
-#   category: organizers
+- name: Tapomayukh Bhattacharjee  
+  affil: Cornell University  <br>  Department of Computer Science  
+  email: tapomayukh@cornell.edu  
+  category: organizers
 
-# - name: Scott Niekum
-#   url: https://www.cs.utexas.edu/~sniekum/
-#   photo: SN.jpg
-#   affil: University of Texas, Austin / University of Massachusetts
-#   category: organizers
+- name: Frank Broz  
+  affil: Delft University of Technology  
+  email: F.Broz@tudelft.nl  
+  category: organizers
+
+- name: Mai Lee Chang  
+  affil: Carnegie Mellon University  <br>  Department of Computer Science  
+  email: maileec@andrew.cmu.edu  
+  category: organizers
+
+- name: Maggie Collier  
+  affil: Carnegie Mellon University  <br>  Department of Computer Science   
+  email: macollie@andrew.cmu.edu  
+  category: organizers
+
+- name: Taylor Kessler Faulkner  
+  affil: University of Washington <br> Personal Robotics Lab  
+  email: taylorkf@cs.washington.edu  
+  category: organizers
+
+- name: Hee Rin Lee  
+  affil: Michigan State University  
+  email: heerin@msu.edu  
+  category: organizers
+
+- name: Isabel Neto  
+  affil: Lisbon University  
+  email: isabel.neto@tecnico.ulisboa.pt  
+  category: organizers
+
+- name: Katie Winkle  
+  affil: Uppsala University    
+  email: katie.winkle@it.uu.se  
+  category: organizers
+
+- name: Elaine Schaertl Short  
+  affil: Tufts University  <br> Department of Computer Science
+  category: organizers
+  email: elane.short@tufts.edu  

@@ -1,4 +1,33 @@
 
+
+- name: Tentative Schedule
+  start_time:  "9:00 AM"
+  end_time: "5:00 PM"
+  sub_events:
+       - name: Welcome
+         start_time: "9:00 AM"
+         end_time: "9:15 AM"
+       - name: "Keynote Speaker #1"
+         start_time: "9:15 AM"
+         end_time: "10:15 AM"
+       - name: "Break"
+         start_time: "10:15 AM"
+         end_time: "10:30 AM"
+       - name: "Panel Discussions"
+         start_time: "10:30 AM"
+         end_time: "12:00 PM"
+         
+      #  10:15-10:30:  Break\\
+      #  10:30-12:00 & panel discussions\\
+      #  12-13:00 & Lunch\\
+      #  13:00-14:00 & Keynote Speaker \#2\\
+      #  14:00-14:15 & Break\\
+      #  14:15-15:30 & Breakout Groups\\
+      #  15:30-16:30 & Breakout Groups\\
+      #  16:30-17:00 & Closing
+
+
+
 # - name: Talks Session I
 #   start_time: "9:00 AM"
 #   end_time: "11:00 AM"
