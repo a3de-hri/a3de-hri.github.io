@@ -1,14 +1,18 @@
 
 
-- name: Reuben Aronson
-  url: http://reuben-aronson.com/
-  photo: RA.jpg
-  affil: Tufts University <br> Department of Computer Science
-  category: organizers
+
 
 - name: Katherine H. Allen  
   affil: Tufts University <br>   Department of Mechanical Engineering  
   email: kat.allen@tufts.edu  
+  url: https://www.katallen.org
+  category: organizers
+  photo: katallen-headshot.png
+
+- name: Reuben Aronson
+  url: http://reuben-aronson.com/
+  photo: RA.jpg
+  affil: Tufts University <br> Department of Computer Science
   category: organizers
 
 - name: Tapomayukh Bhattacharjee  
@@ -44,6 +48,8 @@
 - name: Isabel Neto  
   affil: Lisbon University  
   email: isabel.neto@tecnico.ulisboa.pt  
+  url : https://isabelcaniconeto.github.io/site/  
+  photo: isabelneto_20210123.png
   category: organizers
 
 - name: Katie Winkle  
@@ -55,3 +61,4 @@
   affil: Tufts University  <br> Department of Computer Science
   category: organizers
   email: elane.short@tufts.edu  
+  photo: eshort.jpg
