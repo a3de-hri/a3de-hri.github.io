@@ -7,7 +7,7 @@
   email: kat.allen@tufts.edu  
   url: https://www.katallen.org
   category: organizers
-  photo: katallen-headshot.png
+  photo: katallen.png
 
 - name: Reuben Aronson
   url: http://reuben-aronson.com/
@@ -33,11 +33,13 @@
 - name: Maggie Collier  
   affil: Carnegie Mellon University  <br>  Department of Computer Science   
   email: macollie@andrew.cmu.edu  
+  photo: maggie.jpg
   category: organizers
 
 - name: Taylor Kessler Faulkner  
   affil: University of Washington <br> Personal Robotics Lab  
   email: taylorkf@cs.washington.edu  
+  photo: tkf.jpg
   category: organizers
 
 - name: Hee Rin Lee  
