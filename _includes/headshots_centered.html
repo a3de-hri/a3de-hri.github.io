@@ -27,9 +27,9 @@
 
   <div class="col-sm-{{w}} col-xs-{{w_xs}}">
     <a href="{{ person.url }}">
-      <img {% unless person.noformat %}class="people-pic"{% endunless %} src="{{ photo_url }}">
+      <img {% unless person.noformat %}class="people-pic"{% endunless %} src="{{ photo_url }}" alt="{{ person.name }}">
     </a>
-    {% unless person.name == blank %}
+    {% unless person.noname %}
     <div class="people-name">
       <a href="{{ person.url }}">{{ person.name }}</a>
       <h6>{{ person.affil }}</h6>
