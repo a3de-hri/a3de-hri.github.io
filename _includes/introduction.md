@@ -1,3 +1,5 @@
+<a class="anchor" id="intro"></a>
+
 This full-day **Friday** (March 15, 2024) workshop addresses the problems of accessibility in HRI and the interplay of ethical considerations for disability-centered design and research, accessibility concerns for disabled researchers, and the design of assistive HRI technologies. 
 The workshop will use a hybrid format to allow participants who due to disability, geographic, financial, or other constraints, are unable to travel.
 
