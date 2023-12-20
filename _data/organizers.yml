@@ -18,16 +18,19 @@
 - name: Tapomayukh Bhattacharjee  
   affil: Cornell University  <br>  Department of Computer Science  
   email: tapomayukh@cornell.edu  
+  photo: tapo.jpg
   category: organizers
 
 - name: Frank Broz  
   affil: Delft University of Technology  
   email: F.Broz@tudelft.nl  
   category: organizers
+  photo: csm_frank_broz.png
 
 - name: Mai Lee Chang  
   affil: Carnegie Mellon University  <br>  Department of Computer Science  
   email: maileec@andrew.cmu.edu  
+  photo: maileechang.jpg
   category: organizers
 
 - name: Maggie Collier  
@@ -44,7 +47,8 @@
 
 - name: Hee Rin Lee  
   affil: Michigan State University  
-  email: heerin@msu.edu  
+  email: heerin@msu.edu
+  photo: heerinlee.png  
   category: organizers
 
 - name: Isabel Neto  
@@ -57,6 +61,7 @@
 - name: Katie Winkle  
   affil: Uppsala University    
   email: katie.winkle@it.uu.se  
+  photo: katie-winkle-with-robot.jpeg
   category: organizers
 
 - name: Elaine Schaertl Short  
