@@ -23,6 +23,8 @@ Similar to the main HRI conference, all submissions should be made following the
 
 The workshop will use a hybrid format to allow participants who due to disability, geographic, financial, or other constraints, are unable to travel. 
 
+For questions, please contact the PC at a3de-hri@elist.tufts.edu
+
 ### Submit Papers to EasyChair Here
 
 [EasyChair A3DE Submissions](https://easychair.org/conferences/?conf=a3de){: .btn}
