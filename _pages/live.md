@@ -1,5 +1,5 @@
 ---
-layout: layout_2022
+layout: layout_2024
 urltitle:  "All Things Attention workshop"
 title: "All Things Attention: Bridging Different Perspectives on Attention"
 categories: neurips, attention, workshop, computer vision, robotics, machine learning, gaze, interaction, neuroscience, cognitive psychology
