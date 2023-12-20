@@ -1,4 +1,4 @@
-- name: Access Computing
-url: https://www.washington.edu/accesscomputing/
-logo: accesscomputing.png
-category: sponsors
+- url: https://www.washington.edu/accesscomputing/
+  photo: accesscomputing.png
+  noformat: true
+  category: sponsors

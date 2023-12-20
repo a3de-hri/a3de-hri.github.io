@@ -18,4 +18,5 @@ sections:
   dates: true
   schedule: false
   speakers: true
+  sponsors: true
 
