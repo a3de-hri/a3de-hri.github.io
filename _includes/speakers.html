@@ -5,38 +5,13 @@
 
 ## Invited Speakers
 
-{% if site.date.speakers.size > 0 %}
+{% if site.data.speakers.size > 0 %}
 
-<div class="row speakers">
-{%- assign i = 0 -%}
+{% comment %} for just headshots not talk info {% endcomment %}
+{% include headshots_centered.html people=site.data.speakers %}
 
-{% for speaker in site.data.speakers %}
-{%- assign new_row = i | modulo: 1 -%}
-
-{%- if new_row == 0 -%}
-<div class="clearfix"></div>
-{%- endif -%}
-
-{%- assign i = i | plus: 1 -%}
-
-<div class="col-sm-2 speaker-pic">
-  <a href="{{ speaker.url }}">
-    <img class="people-pic" src="{{ speaker.photo | prepend:"img/speakers/" | prepend: page.data_dir }}" />
-  </a>
-  <div class="people-name">
-    <a href="{{ speaker.url }}">{{ speaker.name }}</a>
-    <h6> {{ speaker.affil }} </h6>
-  </div>
-</div>
-<div class="col-sm-10 speaker-talk">
-  <h3>{{ speaker.talk_title | default: "Title TBA" }}</h3>
-  <span class="speaker-abstract">{{ speaker.talk_abstract | default: "Abstract TBA" | markdownify }}</span> <br />
-</div>
-
-{% endfor %}
-
-</div>
-
+{% comment %} for full talk info {% endcomment %}
+{% comment %} {% include headshots_title_abstract.html people=site.data.speakers %} {% endcomment %}
 
 {% else %} 
 

@@ -1,23 +1,29 @@
-# - name: Ida Momennejad
-#   url: https://www.momen-nejad.org/
-#   photo: IM.jpg
-#   affil: Principal Researcher, Microsoft Research
-#   talk_title: Attention in Task-sets, Planning, and the Prefrontal Cortex
-#   talk_abstract: |
-#     What we pay attention to depends on the context and the task at hand. On the one hand, the prefrontal cortex can modulate how to direct attention outward to the external world. On the other hand, attention to internal states enables metacognition and configuration of internal states using repertoires of memories and skills. I will first discuss ongoing work in which, inspired by the role of attention in affordances and task-sets, we analyze large scale game play data in the XboX 3D game Bleeding Edge in an interpretable way. I will briefly mention ongoing directions including decoding of plans during chess based on eye-tracking. I will conclude with how future models of multi-scale predictive representations could include prefrontal cortical modulation during planning and task performance.
-#   category: speakers
-#   panelist: true
+- name: Laurel Riek
+  url: https://laurelriek.org/
+  photo: LR.jpg
+  affil: UC San Diego
+  talk_title: TBA
+  talk_abstract: |
+    TBA
+  category: speakers
 
-# - name: James Whittington
-#   url: https://www.jcrwhittington.com/
-#   photo: JW.jpg
-#   affil: Postdoc, University of Oxford
-#   talk_title: Relating Transformers to Models and Neural Representations of the Hippocampal Formation
-#   talk_abstract: 
-#     Many deep neural network architectures loosely based on brain networks have recently been shown to replicate neural firing patterns observed in the brain. One of the most exciting and promising novel architectures, the Transformer neural network, was developed without the brain in mind. In this work, we show that transformers, when equipped with recurrent position encodings, replicate the precisely tuned spatial representations of the hippocampal formation; most notably place and grid cells. Furthermore, we show that this result is no surprise since it is closely related to current hippocampal models from neuroscience. We additionally show the transformer version offers dramatic performance gains over the neuroscience version. This work continues to bind computations of artificial and brain networks, offers a novel understanding of the hippocampal-cortical interaction, and suggests how wider cortical areas may perform complex tasks beyond current neuroscience models such as language comprehension.
+- name: Charlie Kemp
+  url: https://charliekemp.com/
+  photo: CK.png
+  affil: Hello Robot
+  talk_title: TBA
+  talk_abstract: |
+    TBA
+  category: speakers
 
-#   category: speakers
-#   panelist: true
+- name: Megan Hofmann
+  url: https://www.megan-hofmann.com/
+  photo: MH.jpg
+  affil: Northeastern University
+  talk_title: TBA
+  talk_abstract: |
+    TBA
+  category: speakers
 
 # - name: Henny Admoni
 #   url: https://www.hennyadmoni.com/
