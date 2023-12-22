@@ -3,7 +3,7 @@
 
 
 - name: Katherine H. Allen  
-  affil: Tufts University <br>   Department of Mechanical Engineering  
+  affil: Tufts University
   email: kat.allen@tufts.edu  
   url: https://www.katallen.org
   category: organizers
@@ -13,11 +13,11 @@
   url: http://reuben-aronson.com/
   photo: RA.jpg
   email: reuben.aronson@tufts.edu
-  affil: Tufts University <br> Department of Computer Science
+  affil: Tufts University
   category: organizers
 
 - name: Tapomayukh Bhattacharjee  
-  affil: Cornell University  <br>  Department of Computer Science  
+  affil: Cornell University
   email: tapomayukh@cornell.edu  
   photo: tapo.jpg
   category: organizers
@@ -29,19 +29,19 @@
   photo: csm_frank_broz.png
 
 - name: Mai Lee Chang  
-  affil: Carnegie Mellon University  <br>  Department of Computer Science  
+  affil: Carnegie Mellon University
   email: maileec@andrew.cmu.edu  
   photo: maileechang.jpg
   category: organizers
 
 - name: Maggie Collier  
-  affil: Carnegie Mellon University  <br>  Department of Computer Science   
+  affil: Carnegie Mellon University
   email: macollie@andrew.cmu.edu  
   photo: maggie.jpg
   category: organizers
 
 - name: Taylor Kessler Faulkner  
-  affil: University of Washington <br> Personal Robotics Lab  
+  affil: University of Washington
   email: taylorkf@cs.washington.edu  
   photo: tkf.jpg
   category: organizers
@@ -66,7 +66,7 @@
   category: organizers
 
 - name: Elaine Schaertl Short  
-  affil: Tufts University  <br> Department of Computer Science
+  affil: Tufts University
   category: organizers
   email: elane.short@tufts.edu  
   photo: eshort.jpg
