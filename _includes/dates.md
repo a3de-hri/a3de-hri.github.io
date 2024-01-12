@@ -5,10 +5,9 @@
 
 ## Important Dates
 
-* Early-review submission deadline:  **January 12, 2024**
-* Early-review notification of acceptance: **January 26, 2024**
-* Regular submission deadline: **February 9, 2024**
-* Notification of acceptance: **February 23, 2024**
+* Submission deadline: **February 9, 2024**
+* Notification of acceptance **rolling**; by **February 23, 2024**
+* We will do our best to ensure that papers submitted before **January 19** receive a decision before the early registration deadline for the HRI conference (TBA)
 * Camera-ready: **March 1, 2024**
 
 {% endif %}
