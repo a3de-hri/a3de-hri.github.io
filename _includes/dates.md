@@ -5,7 +5,7 @@
 
 ## Important Dates
 
-* Submission deadline: **February 9, 2024**
+* Submission deadline: ~~February 9~~ **February 16, 2024**
 * Notification of acceptance **rolling**; by **February 23, 2024**
 * Papers submitted by **February 5, 2024** will receive a decision before the conference early registration deadline
 * Camera-ready: **March 1, 2024**
