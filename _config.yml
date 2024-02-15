@@ -16,7 +16,7 @@ include: ['_pages']
 sections:
   call: true
   dates: true
-  schedule: false
+  schedule: true
   speakers: true
   sponsors: true
 

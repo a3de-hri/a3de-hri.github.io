@@ -278,6 +278,7 @@ span.award-other img {
 
 .subevent {
   font-size: smaller;
+  padding-left: 2em;
 }
 
 .sponsor {
@@ -323,6 +324,10 @@ span.award-other img {
 
 .abstract-link .paper-link {
   font-size: small;
+}
+
+.schedule .time {
+  width: 25%;
 }
 
 div.paper-tldr {
