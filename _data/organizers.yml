@@ -20,12 +20,14 @@
   affil: Cornell University
   email: tapomayukh@cornell.edu  
   photo: tapo.jpg
+  url: https://sites.google.com/site/tapomayukh
   category: organizers
 
 - name: Frank Broz  
   affil: Delft University of Technology  
   email: F.Broz@tudelft.nl  
   category: organizers
+  url: https://www.tudelft.nl/en/eemcs/the-faculty/departments/intelligent-systems/interactive-intelligence/people/current-group-members/frank-broz
   photo: csm_frank_broz.png
 
 - name: Maru Cabrera
@@ -38,6 +40,7 @@
   affil: Carnegie Mellon University
   email: maileec@andrew.cmu.edu  
   photo: maileechang.jpg
+  url: https://www.maileechang.com/
   category: organizers
 
 - name: Maggie Collier  
@@ -56,6 +59,7 @@
   affil: Michigan State University  
   email: heerin@msu.edu
   photo: heerinlee.png  
+  url: https://www.heerinlee.com
   category: organizers
 
 - name: Isabel Neto  
@@ -69,10 +73,12 @@
   affil: Uppsala University    
   email: katie.winkle@it.uu.se  
   photo: katie-winkle-with-robot.jpeg
+  url: https://kwinkle.github.io/
   category: organizers
 
 - name: Elaine Schaertl Short  
   affil: Tufts University
   category: organizers
   email: elane.short@tufts.edu  
+  url: https://eshort.github.io/
   photo: eshort.jpg
