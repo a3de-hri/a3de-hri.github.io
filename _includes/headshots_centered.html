@@ -25,9 +25,9 @@
 
 {% capture photo_url %}{{page.data_dir}}img/{{person.category}}/{{person.photo}}{% endcapture %}
 
-  <div class="col-sm-{{w}} col-xs-{{w_xs}}">
+  <div class="col-sm-{{w}} col-xs-{{w_xs}} {{ person.category }}-cell">
     <a href="{{ person.url }}">
-      <img {% unless person.noformat %}class="people-pic"{% endunless %} src="{{ photo_url }}" alt="{{ person.name }}">
+      <img class="img-responsive {{ person.category }}-pic align-middle" src="{{ photo_url }}" alt="{{ person.name }}">
     </a>
     {% unless person.noname %}
     <div class="people-name">

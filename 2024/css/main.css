@@ -174,12 +174,27 @@ div.speaker-talk h3 {
   margin-top: 1em;
 }
 
-.people-pic {
+.speakers-pic, .organizers-pic, .panelists-pic {
   width: 125px;
   height: 125px;
   overflow: hidden;
   object-fit: cover;
   border-radius: 125px;
+}
+
+.sponsors-cell {
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+
+.sponsors-cell a {
+  text-decoration: none;
+  border: none;
+}
+
+.sponsors-pic {
+  max-height: 100px;
 }
 
 .people-name {
