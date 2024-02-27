@@ -14,8 +14,9 @@ include: ['_pages']
 
 # What sections are available?
 sections:
-  call: true
-  dates: true
+  accepted_papers: true
+  call: false
+  dates: false
   schedule: true
   speakers: true
   sponsors: true

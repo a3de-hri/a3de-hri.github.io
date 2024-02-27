@@ -1,6 +1,5 @@
-# - title: Attention as inference with third-order interactions
-#   authors: Yicheng Fei, Xaq Pitkow
-#   tldr: ''
+- title: Stigma and Service Robots
+  authors: Tanaka Akiyama, Christopher Yee Wong and Ajung Moon
 #   abstract: In neuroscience, attention has been associated operationally with enhanced
 #     processing of certain sensory inputs depending on external or internal contexts
 #     such as cueing, salience, or mental states. In machine learning, attention usually
@@ -16,6 +15,41 @@
 #     provides a normative explanation for divisive normalization in macaque primary
 #     visual cortex, an operation adopted widely throughout the cortex to reduce redundancy,
 #     save energy, and improve computation.
-#   decision: Accept (Poster)
 #   pdf_file: fei-attention_as_inference_with_thirdorder_interactions.pdf
 #   video: https://www.youtube.com/watch?v=L_Y5xABhFlA&list=PLfL8jnQpWpbGM9wD_1Y8bKLDQ2pdXy_XQ&index=1
+
+- title: Innovative Framework for Enhanced Gamification in Autism Therapy (PIETI)
+  authors: Eiman Al-Shammari
+
+- title: Examining the Implications of Automation on User Autonomy in Robot-Mediated Presence
+  authors: Andriana Boudouraki
+
+- title: Assistive Technology Is Worthless If It Is Not Accessible
+  authors: Elizabeth Ericksen
+
+- title: The Problem of Ableist Paternalism in Assistive Robotics
+  authors: Pratyusha Ghosh, Belen Liedo and Laurel Riek
+
+- title: Values-Guided Agile Robotics Research
+  authors: Alexandra Gillespie, Narit Trikasemsak, Rayna Hata, Andrea Giudice and Stacy A. Doore
+
+- title: "Love, Joy, and Autism Robots: A Metareview and Provocatype"
+  authors: Andrew Hundt, Gabrielle Ohlson, Pieter Wolfert, Lux Miranda, Sophia Zhu and Katie Winkle
+
+- title: "What a Professional Care Provider Wants, What a Disabled Person Needs: Exploring Stakeholder Design Tensions in Assistive Robotics"
+  authors: Sandhya Jayaraman, Dagoberto Cruz-Sandoval, Alyssa Kubota and Laurel Riek
+
+- title: "Productivity CoachBot: a Social Robot Coach for University Students with ADHD"
+  authors: Himanshi Lalwani, Maha Elgarf and Hanan Salam
+
+- title: Principal Component Analysis in Accessible Control
+  authors: Maximus McCune, Andrew Thompson and Brenna Argall
+
+- title: Multiple Ways of Working with Users to Develop Physically Assistive Robots
+  authors: Amal Nanavati, Max Pascher, Vinitha Ranganeni, Ethan K. Gordon, Taylor Kessler Faulkner, Siddhartha S. Srinivasa, Maya Cakmak, Patrícia Alves-Oliveira and Jens Gerken
+
+- title: "Navigating Adaptive Design: Advancing the Body-Machine Interface for 6D Control in Assistive Applications"
+  authors: Fiona Neylon, Andrew Thompson, Demiana Barsoum, Fabio Rizzoglio, Lucy Ammon, Maximus McCune, Lee Miller and Brenna Argall
+
+- title: "Fostering Inclusion: A Regional Initiative Uniting Communities to Co-Design Assistive Technologies"
+  authors: Katharina Schmermbeck, Oliver Ott, Lennart Ralfs and Robert Weidner
