@@ -1,27 +1,29 @@
 
 {% assign paper=include.paper %}
-{% assign abstract_id = paper.pdf_file | remove: ".pdf" %}
 
 <div class="row paper">
-<div class="col-sm-9">
+<div class="col-md-8">
 		<span class="title">{{ paper.title }}</span>
 		<span class="authors">{{ paper.authors }}</span>
 </div>
 
 
-<div class="col-sm-3" style="text-align: right;">
+<div class="col-md-4" style="text-align: right;">
 {% if paper.abstract %}
-<a href="#{{ abstract_id }}-parent" role="button" data-toggle="collapse" href="#{{ abstract_id }}" aria-expanded="false" aria-controls="{{ abstract_id }}" class="abstract-link">[expand abstract]</a>
+<a href="#{{ paper.slug }}-parent" role="button" data-toggle="collapse" href="#{{ paper.slug }}" aria-expanded="false" aria-controls="{{ paper.slug }}" class="abstract-link">[abstract]</a>
 {% endif %}
 
-{% if paper.pdf_file %}
-<a href="{{ paper.pdf_file | prepend:"papers/" | prepend: page.data_dir }}" class="pdf-link">[pdf]</a>
+<a href="{{ paper.slug | prepend:"files/papers/" | prepend: page.data_dir }}.pdf" class="pdf-link">[paper]</a>
+
+{% if paper.poster %}
+<a href="{{ paper.slug | prepend:"files/posters/" | prepend: page.data_dir }}_poster.pdf" class="pdf-link">[poster]</a>
 {% endif %}
 
 {% if paper.video %}
-<a href="{{ paper.video }}" class="video">[video]</a>
+<a href="{{ paper.slug | prepend:"files/videos/" | prepend: page.data_dir }}.mp4" class="video" download>[video]</a>
 {% endif %}
 </div>
+
 <div class="clearfix"></div>
 
 {% if paper.tldr %}
@@ -29,7 +31,7 @@
 {% endif %}
 
 {% if paper.abstract %}
-<div id="{{ abstract_id }}" class="collapse" aria-labelledby="#{{ abstract_id }}-parent" > 
+<div id="{{ paper.slug }}" class="collapse" aria-labelledby="#{{ paper.slug }}-parent" > 
 	<div class="well">
 	{{ paper.abstract }}
 	</div>

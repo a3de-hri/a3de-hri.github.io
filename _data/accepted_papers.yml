@@ -1,55 +1,92 @@
 - title: Stigma and Service Robots
   authors: Tanaka Akiyama, Christopher Yee Wong and Ajung Moon
-#   abstract: In neuroscience, attention has been associated operationally with enhanced
-#     processing of certain sensory inputs depending on external or internal contexts
-#     such as cueing, salience, or mental states. In machine learning, attention usually
-#     means a multiplicative mechanism whereby the weights in a weighted summation of
-#     an input vector are calculated from the input itself or some other context vector.
-#     In both scenarios, attention can be conceptualized as a gating mechanism. In this
-#     paper, we argue that three-way interactions serve as a normative way to define
-#     a gating mechanism in generative probabilistic graphical models. By going a step
-#     beyond pairwise interactions, it empowers much more computational efficiency,
-#     like a transistor expands possible digital computations. Models with three-way
-#     interactions are also easier to scale up and thus to implement biologically. As
-#     an example application, we show that a graphical model with three-way interactions
-#     provides a normative explanation for divisive normalization in macaque primary
-#     visual cortex, an operation adopted widely throughout the cortex to reduce redundancy,
-#     save energy, and improve computation.
-#   pdf_file: fei-attention_as_inference_with_thirdorder_interactions.pdf
-#   video: https://www.youtube.com/watch?v=L_Y5xABhFlA&list=PLfL8jnQpWpbGM9wD_1Y8bKLDQ2pdXy_XQ&index=1
+  slug: akiyama_2024_a3de_stigma_robots
+  poster: true
+  video: true
+  abstract: Service robots hold the potential to assist both specific user populations with tailored support while also serving the broader public domain. As the demographic shift towards an older population continues, the increasing diversity of accessibility needs means that service robots will need to accommodate a broader range of users, necessitating the integration of lessons from the domain of Assistive Technology (AT). However, the assistive nature of service robots necessitates consideration of stigma, which has historically hindered the adoption of AT and robots, especially among populations susceptible to societal biases or discrimination. In this paper, we delve into how stigma manifests and operates in the context of service robots, identifying open research questions that warrant further exploration. We explore the relationship between assistive and service robots, critically analyze existing research on stigma and robotics, and examine known solutions for reducing stigma through design. We lay the groundwork for innovative solutions and strategies to confront the challenges posed by stigma and the acceptation of service robots.
+
 
 - title: Innovative Framework for Enhanced Gamification in Autism Therapy (PIETI)
   authors: Eiman Al-Shammari
+  slug: al-shammari_2024_a3de_innovative_therapy
+  poster: false
+  video: false
+  abstract: "Autism Spectrum Disorder (ASD) presents unique challenges that necessitate specialized and deliberate approaches to learning and therapy. With the growing acceptance of gamification as a powerful tool in educational and therapeutic settings, its use in autism interventions has become a focus of innovation. The PIETI Framework is introduced in this paper, a nuanced approach to using gamification to improve interaction skills in people with ASD. The PIETI Framework is based on five main components: therapeutic, immersive, personalization, interactivity, and an aspect of ethics and accessibility. Personalization ensures adaptive content that is tailored to each child's unique learning journey, with adaptable user interfaces and content tailored to individual learning pace, interests, and challenges. Immersive: By leveraging virtual and augmented reality technologies, it encourages the creation of realistic and engaging environments that significantly improve the learning experience and keep students' attention. Ethics and Accessibility: With a focus on protecting children's rights and well-being, this pillar addresses data protection, the emotional and psychological effects of gamification, and includes caregivers and professionals in the design process. It also includes economic considerations, such as ensuring that the strategies are cost-effective, accessible, and long-term. Therapeutic: This component prioritizes alignment with individual therapeutic goals and incorporates strategies such as feedback, rewards, and difficulty adjustments to meet diverse needs, encourage independence, and improve learning outcomes. Interactivity: This element promotes active learning and social interaction by involving children in the learning process through dynamic feedback, interactive storytelling, and multiplayer capabilities. One unique aspect of the PIETI Framework is the thoroughness with which it addresses the various needs of autistic people in gamified learning settings. It aims to pave the way for more inclusive, effective, and responsible applications of gamification in autism support and intervention by addressing ethical, practical, and economic implications. This framework not only adds to current understanding and methodology in autism therapy, but it also opens new avenues for future research, development, and practice."
 
 - title: Examining the Implications of Automation on User Autonomy in Robot-Mediated Presence
   authors: Andriana Boudouraki
+  slug: boudouraki_2024_a3de_examining_presence
+  poster: true
+  video: true
+  abstract: Within the domain of robotic solutions for accessibility, automation has begun to play an increasingly bigger role. Automating an action that a person struggles to perform on their own can of course be beneficial. However, this position paper puts forward that the relationship between automation and user autonomy ought to be examined more critically. I ground this discussion on the example of Mobile Robotic Telepresence (MRP) technology. MRP technology allows us to remotely control a robotic body with a videoconferencing screen so as to be “present” in another location when unable to travel there in-person. This is often presented as an accessibility solution. Existing MPR systems are limited in what they can do and they can be difficult to operate. As such many proposed improvements to these systems involve automating their various functions. Whilst this would expand the ways in which users can remotely experience and interact with hybrid spaces, thus making them more accessible, it is important to consider how such implementations of automation affect the ways in which the users experience this robot-mediated access, as well as how automation affects the ways in which their robotic presence is incorporated in social interactions. As we proceed into a future of ever increasing automation, we must take steps to ensure that it supports rather than hinders users' autonomy and control over their self presentation.
 
 - title: Assistive Technology Is Worthless If It Is Not Accessible
   authors: Elizabeth Ericksen
+  slug: ericksen_2024_a3de_assistive_accessible
+  poster: true
+  video: true
+  abstract: Like small robots riding on their user's ears, Bluetooth enabled hearing aids when paired to a smartphone enhance wearer's lives with adaptive hearing features, audio streaming, and health monitoring. However, along with their benefts come accessibility challenges. Drawing from personal experiences, I explore the benefts of modern hearing aids and highlight failures in Bluetooth connectivity as a common roadblock for their full feature usage. This paper is meant to raise awareness of the complexities surrounding the use of assistive technologies and to stimulate discussion on the need to make them fully accessible for their users.
 
 - title: The Problem of Ableist Paternalism in Assistive Robotics
   authors: Pratyusha Ghosh, Belen Liedo and Laurel Riek
+  slug: ghosh_liedo_2024_a3de_problem_robotics
+  poster: true
+  video: false
+  abstract: Autonomous robots can influence people's behaviors socially, cognitively, and physically. They introduce new forms of paternalism, i.e, acting on behalf of someone's benefit without the consent or will of the person. There has been substantial critiques by the critical disability studies community about the longstanding persistence of paternalism towards disabled people. However, despite the growing numbers of assistive robots for disabled people, there has yet to be a comprehensive framework exploring the different complex factors shaping robot-mediated paternalism and the problems associated with that. Since the robot design lifecycle is complex and involves several stakeholders, each of whom can have conflicting views about how to benefit the user, avoiding ableist paternalism can be challenging. Here, we present a possible theoretical framework that identifies the ways robot-mediated paternalism can happen. We plan to build on this framework to ultimately develop a checklist that guides the HRI community on how to avoid ableist paternalism in the design of assistive robots for disabled people.
 
 - title: Values-Guided Agile Robotics Research
   authors: Alexandra Gillespie, Narit Trikasemsak, Rayna Hata, Andrea Giudice and Stacy A. Doore
+  slug: gillespie_2024_a3de_values_research
+  poster: true
+  video: false
+  abstract: There is a renewed interest in exploring the use of agile robots for non-visual navigation guides as the robots become more affordable. Although studies do include Blind and Low Vision (BLV) participants, few include people with lived non-visual navigation experience as members of the research team from the inception of the project. Often researchers gather data from BLV guide dog handlers to find out their needs, preferences, and concerns at the end of the design process during user testing scenarios. Instead, this extended abstract offers two established frameworks, Co-Design and Value Sensitive Design, to incorporate accessibility expertise from the beginning of an assistive technology project. We provide an overview of both approaches and how they are applied in an early research project using an industrial quadruped robot as a navigation assistant in a human-robot team. We also share ways we have included community stakeholders who might encounter the research team in public spaces during research and testing sessions.
 
 - title: "Love, Joy, and Autism Robots: A Metareview and Provocatype"
   authors: Andrew Hundt, Gabrielle Ohlson, Pieter Wolfert, Lux Miranda, Sophia Zhu and Katie Winkle
+  slug: hundt_2024_a3de_love_provocatype
+  poster: true
+  video: true
+  abstract: "Previous work has observed how Neurodivergence is often harmfully pathologized in Human-Computer Interaction (HCI) and Human-Robot interaction (HRI) research. We conduct a review of autism robot reviews and find the dominant research direction is Autistic people's second to lowest (24 of 25) research priority: interventions and treatments purporting to 'help' neurodivergent individuals to conform to neurotypical social norms, become better behaved, improve social and emotional skills, and otherwise ‘fix' us &mdash; rarely prioritizing the internal experiences that might lead to such differences. Furthermore, a growing body of evidence indicates many of the most popular current approaches risk inflicting lasting trauma and damage on Autistic people. We draw on the principles and findings of the latest Autism research, Feminist HRI and Robotics to imagine a role reversal, analyze the implications, then conclude with actionable guidance on Autistic-led scientific methods and research directions."
 
-- title: "What a Professional Care Provider Wants, What a Disabled Person Needs: Exploring Stakeholder Design Tensions in Assistive Robotics"
+
+- title: "What a Healthcare Worker Wants, What a Disabled Person Needs: Exploring Stakeholder Design Tensions in Assistive Robotics"
   authors: Sandhya Jayaraman, Dagoberto Cruz-Sandoval, Alyssa Kubota and Laurel Riek
+  slug: jayaraman_2024_a3de_what_robotics
+  poster: true
+  video: false
+  abstract: While disabled people are typically the primary users of assistive technologies, other stakeholders, such as family members, caregivers, and clinicians, may be closely involved in their care process. Incorporating the perspectives of multiple stakeholder groups into the design of these technologies can however give rise to design tensions, which can be challenging to mitigate. To exemplify these tensions, we report on two case studies from our ongoing work co-designing assistive robots with disabled people and healthcare workers (HCWs). The first included co-designing assistive robots with people with dementia (PwD) and people with mild cognitive impairment (PwMCI), and the second people with cancer (PwC). Within the case studies, we illustrate similarities between the disabled population and HCWs, such as supporting empathy and personalization. However, we also note design tensions, such as within the role of the robot, the services it provides, and the concerns it seeks to address. Finally, we discuss which factors need to be considered by HRI researchers to navigate design tensions throughout the design and development process.
 
 - title: "Productivity CoachBot: a Social Robot Coach for University Students with ADHD"
   authors: Himanshi Lalwani, Maha Elgarf and Hanan Salam
+  slug: lalwani_2024_a3de_productivity_adhd
+  poster: true
+  video: false
+  abstract: "Attention-Deficit Hyperactivity Disorder (ADHD) has profound effects on the academic, social, mental, and psychological well-being of young adults. Despite the availability of therapies and medications, there is a lack of direct tools to assist the diagnosed individuals in overcoming their daily challenges. To address this gap, our research focuses on the development of software tools that are integrated into a social robot acting as a coaching companion to university students struggling with ADHD. These tools aim at assisting students with task management and completion and are organized into the following modules: Conversation, Schedule Generation, Voice Note Reminders, the Pomodoro Technique, and Engagement Detection. By integrating these modules, our coaching robot aims to provide tailored support to young adults with ADHD, helping them navigate daily activities and enhance their overall quality of life. We conducted a preliminary evaluation of our system with three college students, all of whom expressed challenges in time and task management, despite lacking an official ADHD diagnosis. The results emphasised the robot's effectiveness in assisting students with these challenges, thereby highlighting the system's potential for future usability and effectiveness in addressing the needs of individuals with ADHD who encounter similar difficulties."
 
 - title: Principal Component Analysis in Accessible Control
   authors: Maximus McCune, Andrew Thompson and Brenna Argall
+  slug: mccune_2024_a3de_principal_control
+  poster: true
+  video: false
+  abstract: "Coming soon"
 
 - title: Multiple Ways of Working with Users to Develop Physically Assistive Robots
   authors: Amal Nanavati, Max Pascher, Vinitha Ranganeni, Ethan K. Gordon, Taylor Kessler Faulkner, Siddhartha S. Srinivasa, Maya Cakmak, Patrícia Alves-Oliveira and Jens Gerken
+  slug: nanavati_pascher_2024_a3de_multiple_robotics
+  poster: true
+  video: false
+  abstract: "Despite the growth of physically assistive robotics (PAR) research over the last decade, nearly half of PAR user studies do not involve participants with the target disabilities. There are several reasons for this—recruitment challenges, small sample sizes, and transportation logistics—all influenced by systemic barriers that people with disabilities face. However, it is well-established that working with end-users results in technology that better addresses their needs and integrates with their lived circumstances. In this paper, we reflect on multiple approaches we have taken to working with people with motor impairments across the design, development, and evaluation of three PAR projects: (a) assistive feeding with a robot arm; (b) assistive teleoperation with a mobile manipulator; and (c) shared control with a robot arm. We discuss these approaches to working with users along three dimensions &mdash; individual vs. community-level insight, logistic burden on end-users vs. researchers, and benefit to researchers vs. community—and share recommendations for how other PAR researchers can incorporate users into their work."
 
 - title: "Navigating Adaptive Design: Advancing the Body-Machine Interface for 6D Control in Assistive Applications"
   authors: Fiona Neylon, Andrew Thompson, Demiana Barsoum, Fabio Rizzoglio, Lucy Ammon, Maximus McCune, Lee Miller and Brenna Argall
+  slug: neylon_2024_a3de_navigating_applications
+  poster: true
+  video: false
+  abstract: "Designing wearable technology presents a unique set of challenges in order to facilitate widespread adoption. Devices need to generalize and be intuitive in order for users to integrate these devices into their daily lives in a meaningful way. When designing assistive technology for individuals with neuromotor impairments, rather than focusing on generalizing to a diverse target population, one approach is to customize the device for each user. Customization in the target population thereby enhances the device performance to its particular use case. The purpose of this work is to highlight the evolution of a Body-Machine Interface (BoMI) to control a 7 degree-of-freedom (DoF) robotic arm and to discuss the experimental protocol for individuals with cervical spinal cord injuries (cSCI). The vetting study, a subset of the work documented in this submission, assesses learning with an interface without the need for mode switching. The transition from a pilot study with control subjects to the first stages of studies with cSCI participants and the corresponding design adaptations are discussed. Preliminary results from the vetting study (acquired from an uninjured test subject) suggest learning of the interface. Results and feedback prompted further changes which are currently being vetted on end-users."
 
 - title: "Fostering Inclusion: A Regional Initiative Uniting Communities to Co-Design Assistive Technologies"
   authors: Katharina Schmermbeck, Oliver Ott, Lennart Ralfs and Robert Weidner
+  slug: schmermbeck_2024_a3de_fostering_technologies
+  poster: true
+  video: true
+  abstract: "People with disabilities often face discrimination and lack of acess in all areas of society. While improving the afordability and appropriateness of assistive technologies can pave the way for eaier participation and independence, awareness and acceptance of disability as part of society are inevitable. The presented regional initiative strives to tackle these problems by bringing together peple with disabilities, students, researchers, and associations. During diferent lecture formats at the university, students co-design assistive technologies with people with disabilities. After one year in practice, we refect on the initiative and its impact on assistive technology development and mitigation of ableism. We conducted and analyzed thirteen semi-structured interviews with participants and other involved stakeholders. Not all co-design projects were fnished within the time of a lecture. Participants nevertheless appreciated the co-design approach and steps in the right direction as projects are continued in upcoming semesters. Interviewees highlighted the initiative's importance in raising awareness and broadening knowledge regarding disability and internalized ableist assumptions for those participating. We conclude that collaboration, continuity, and public outreach are most important to work towards tangible assistive technologies, bridging accessibility gaps, and fostering a more inclusive society."

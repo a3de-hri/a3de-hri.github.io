@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:05,000
+Assistive technology is worthless if it is not accessible.
+
+2
+00:00:05,000 --> 00:00:11,000
+This presentation is meant to raise awareness of the complexities of connected assistive technologies.
+
+3
+00:00:11,000 --> 00:00:15,000
+I explore these through the lens of a Bluetooth-enabled hearing aid.
+
+4
+00:00:15,000 --> 00:00:20,000
+Bluetooth-enabled hearing aids have many features, including:
+
+5
+00:00:20,000 --> 00:00:23,000
+Preset programs optimized for hearing in different environments
+ 
+6
+00:00:23,000 --> 00:00:27,000
+Monitoring and tracking hearing aid usage and physical activities
+
+7
+00:00:27,000 --> 00:00:30,000
+Fall detection with automatic text alerts sent to a designated contact list
+
+8
+00:00:30,000 --> 00:00:34,000
+Spoken language translated to a preferred target language
+
+9
+00:00:34,000 --> 00:00:40,000
+Headset capabilities enabling clear calls and streamed content like music, podcasts and audio books.
+
+10
+00:00:40,000 --> 00:00:44,000
+All this technology is great when the Bluetooth connectivity works. 
+
+11
+00:00:44,000 --> 00:00:50,000
+However, when it doesn't, failures in connectivity become a common roadblock to full feature accessibility.
+
+12
+00:00:50,000 --> 00:00:54,000
+Bluetooth failures are usually connected to software or firmware updates.
+
+13
+00:00:54,000 --> 00:00:60,000
+They can also be caused by interference from other devices or from switching from Wi-Fi to cellular data.
+
+14
+00:00:60,000 --> 00:01:07,000
+For someone not familiar with technology, fixing connectivity issues can be a tedious, confusing process.
+
+15
+00:01:07,000 --> 00:01:10,000
+Sometimes reconnection can involve almost 20 steps.
+
+16
+00:01:10,000 --> 00:01:15,000
+Some people just give up and never enjoy the full capabilities of their hearing aids.
+
+17
+00:01:15,000 --> 00:01:20,000
+Fixing connectivity issues should not be this hard.
+
+18
+00:01:20,000 --> 00:01:25,000
+Sometimes the accessibility issues caused by connectivity issues are inconvenient.
+
+19
+00:01:25,000 --> 00:01:28,000
+Conversations may not be as clear.
+
+20
+00:01:28,000 --> 00:01:32,000
+Programs that allow optimization of sound settings are no longer available.
+
+21
+00:01:32,000 --> 00:01:39,000
+There is no more streaming of content to one's hearing aids, and hearing and health monitoring no longer works.
+
+22
+00:01:39,000 --> 00:01:41,500
+Sometimes the consequences are dangerous.
+
+23
+00:01:41,500 --> 00:01:50,000
+Disconnection to a navigation aid while driving means you are no longer able to hear the driving directions. You could get lost in an unfamiliar place.
+
+24
+00:01:50,000 --> 00:01:55,000
+Unreliable features like fall detection give false expectations of safety.
+
+25
+00:01:55,000 --> 00:02:00,000
+If a user falls, a fall alert will no longer be sent to their designated contact list.
+
+26
+00:02:00,000 --> 00:02:07,000
+Inaccessible features, no matter how wonderful, do no one any good.
+
+27
+00:02:07,000 --> 00:02:11,000
+When designing assistive technology, there are four important metrics to consider.
+
+28
+00:02:11,000 --> 00:02:14,000
+Reliability. A product needs to behave as expected.
+
+29
+00:02:14,000 --> 00:02:21,000
+Availability. As users of assistive technology are often dependent on it, it must be operational when they need it.
+
+30
+00:02:21,000 --> 00:02:25,000
+Serviceability. Maintaining or fixing a product should be simple, not a 20-step process.
+
+31
+00:02:25,000 --> 00:02:31,000
+Accessibility. If a person cannot understand how to use a product, it is not accessible.
+
+32
+00:02:31,000 --> 00:02:35,000
+When designing new technologies, developers need to:
+
+33
+00:02:35,000 --> 00:02:39,000
+Recognize that most users lack the background to navigate technology hiccups.
+
+33
+00:02:39,000 --> 00:02:47,000
+They need to employ non-tech savvy testers before product rollouts and coordinate software updates that affect device connectivity.
+
+34
+00:02:47,000 --> 00:02:55,000
+But most importantly, they need to remember that people rely on their products to work when needed.
+

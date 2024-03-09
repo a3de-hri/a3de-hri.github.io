@@ -1,0 +1,235 @@
+1
+00:00:00,000 --> 00:00:05,730
+Hi, I'm Andrew Hundt and I'm going to talk about
+our paper: Love, Joy and Autism Robots: A
+
+2
+00:00:05,730 --> 00:00:14,250
+Metareview and Provocatype with myself Andrew
+Hundt, Gabrielle Ohlson, Pieter Wolfert, Lux
+
+3
+00:00:14,250 --> 00:00:23,820
+Miranda, Sophia Zhu, and Katie Winkle as authors.
+We review a set of autism reviews and find that
+
+4
+00:00:23,910 --> 00:00:29,700
+current autism robot research tends to risk
+harming autistic people, lack measures of harmful
+
+5
+00:00:29,700 --> 00:00:39,720
+impacts, use deficit language, lack rigor and be
+outdated. Interventions are autistic people's
+
+6
+00:00:40,500 --> 00:00:46,440
+second to lowest research priority, yet they
+dominate autism robot research. And here we're
+
+7
+00:00:46,440 --> 00:00:53,040
+comparing current autism research against autism
+robot research. So let's take an example, eye
+
+8
+00:00:53,040 --> 00:00:58,440
+contact training. That's the most common robot
+intervention, it's uncomfortable or even painful
+
+9
+00:00:58,440 --> 00:01:05,040
+for many. And among autism interventions, which
+was already ranked second to last. Eye contact is
+
+10
+00:01:05,100 --> 00:01:09,990
+also ranked, within interventions, second to last.
+So it's at the bottom of the bottom of the list
+
+11
+00:01:09,990 --> 00:01:16,260
+here, it's the most common intervention, there's
+known negative health impacts of camouflaging,
+
+12
+00:01:16,470 --> 00:01:21,690
+which includes eye contact, and that means it's
+not consistent with the benefits and amorphous non
+
+13
+00:01:21,690 --> 00:01:28,950
+maleficence principles required for most human
+subjects research. So, with this in mind, we
+
+14
+00:01:28,950 --> 00:01:37,050
+create a provocative, creative design provocation
+for a robot to fix neurotypical spectrum disorder,
+
+15
+00:01:37,800 --> 00:01:45,150
+suffers deficits. So we restate research findings
+from a perspective where autistic strengths are
+
+16
+00:01:45,150 --> 00:01:51,090
+the default. And this iterates on a strategy for
+say swapping names in a paper switch the
+
+17
+00:01:51,570 --> 00:01:56,820
+participant to researcher and if the candidate
+sounds like it would be offensive about you, then
+
+18
+00:01:56,850 --> 00:02:03,150
+that's something to avoid. And reasons why this
+matters, an example, is the way that neurotypical
+
+19
+00:02:03,150 --> 00:02:09,810
+peers are less willing to interact with those with
+autism, based on thin slice judgments, so even
+
+20
+00:02:09,810 --> 00:02:17,220
+just seeing them for a brief period of time. And
+so we go over some common set signs of
+
+21
+00:02:17,220 --> 00:02:24,120
+neurotypical spectrum disorder, which is
+characterized by various deficits and
+
+22
+00:02:24,120 --> 00:02:29,130
+difficulties, like understanding direct
+communication with the tendency to invent implied
+
+23
+00:02:29,160 --> 00:02:36,420
+content that isn't present, and difficulty with
+avoiding negative assumptions and judgments about
+
+24
+00:02:36,420 --> 00:02:42,750
+harmlessly divergent people and behaviors. But, we
+then took the time to think about that provoca
+
+25
+00:02:42,750 --> 00:02:48,960
+type, and realize that this sort of framing is
+really problematic. And really, the risk is too
+
+26
+00:02:48,960 --> 00:02:54,870
+high of working from that sort of angle, so we
+decided to end the project accordingly, and that's
+
+27
+00:02:54,900 --> 00:03:01,530
+a robot provacatype is to end the project when
+it's appropriate to do so. Then we also recommend
+
+28
+00:03:01,560 --> 00:03:06,930
+pursuing top research priorities for autistic
+people that's includes mental health and well
+
+29
+00:03:06,930 --> 00:03:14,130
+being identifying and diagnosing autistic people
+plus post diagnostic support, services and support
+
+30
+00:03:14,160 --> 00:03:18,990
+across the lifespan across including social care
+and health care. Guess what, people remain
+
+31
+00:03:19,110 --> 00:03:26,340
+autistic if they turn 18, knowledge and attitudes
+towards autistic people, and how we view and
+
+32
+00:03:26,340 --> 00:03:33,510
+communicate about autism and the deficit language
+we use and keep to the provocative type sort of
+
+33
+00:03:33,840 --> 00:03:40,830
+conveys how prevailing attitudes are problematic
+and how they could change too, and the rest of the
+
+34
+00:03:40,830 --> 00:03:47,580
+paper goes in about how it could change to be
+better. Then we also make recommendations here is
+
+35
+00:03:47,610 --> 00:03:54,240
+a selection: refocus on autistic led research
+parties and resources. That's anything from
+
+36
+00:03:54,810 --> 00:03:59,520
+autistic participants all the way up through
+artistic researchers. Use inclusive language,
+
+37
+00:04:00,030 --> 00:04:05,130
+address individual artistic environmental needs.
+Some people are sensory seeking. Some people are
+
+38
+00:04:05,490 --> 00:04:10,590
+sensory avoidant, or have sensory sensitivities,
+those vary per autistic individual and those need
+
+39
+00:04:10,590 --> 00:04:19,830
+to be respected. And the autistic SPACE framework
+is a paper published last year, that is a really
+
+40
+00:04:19,830 --> 00:04:25,890
+useful resource to guide safer research
+environments. It focuses on medicine, but a lot of
+
+41
+00:04:25,890 --> 00:04:32,040
+the knowledge embedded there is transferable. Then
+there's a whole bunch of other key info in the
+
+42
+00:04:32,040 --> 00:04:38,790
+paper, some disability terminology, historical
+events, and more details about our review of
+
+43
+00:04:38,850 --> 00:04:46,020
+autism robot reviews, a summary of essential
+current autism research, details about autistic
+
+44
+00:04:46,020 --> 00:04:53,070
+priorities, the robot provoca type and
+recommendations and guidance about those findings.
+
+45
+00:04:53,370 --> 00:04:57,330
+papers that researchers should read if you're
+doing autism research, especially autism, robot
+
+46
+00:04:57,330 --> 00:05:06,180
+research, and changes that should be made into
+autism robot projects and policies. And that's a
+
+47
+00:05:06,180 --> 00:05:09,960
+brief summary of our paper! We hope you enjoy it!
+Thanks a lot for joining us!
+
