@@ -9,7 +9,7 @@
 - title: Innovative Framework for Enhanced Gamification in Autism Therapy (PIETI)
   authors: Eiman Al-Shammari
   slug: al-shammari_2024_a3de_innovative_therapy
-  poster: false
+  poster: true
   video: false
   abstract: "Autism Spectrum Disorder (ASD) presents unique challenges that necessitate specialized and deliberate approaches to learning and therapy. With the growing acceptance of gamification as a powerful tool in educational and therapeutic settings, its use in autism interventions has become a focus of innovation. The PIETI Framework is introduced in this paper, a nuanced approach to using gamification to improve interaction skills in people with ASD. The PIETI Framework is based on five main components: therapeutic, immersive, personalization, interactivity, and an aspect of ethics and accessibility. Personalization ensures adaptive content that is tailored to each child's unique learning journey, with adaptable user interfaces and content tailored to individual learning pace, interests, and challenges. Immersive: By leveraging virtual and augmented reality technologies, it encourages the creation of realistic and engaging environments that significantly improve the learning experience and keep students' attention. Ethics and Accessibility: With a focus on protecting children's rights and well-being, this pillar addresses data protection, the emotional and psychological effects of gamification, and includes caregivers and professionals in the design process. It also includes economic considerations, such as ensuring that the strategies are cost-effective, accessible, and long-term. Therapeutic: This component prioritizes alignment with individual therapeutic goals and incorporates strategies such as feedback, rewards, and difficulty adjustments to meet diverse needs, encourage independence, and improve learning outcomes. Interactivity: This element promotes active learning and social interaction by involving children in the learning process through dynamic feedback, interactive storytelling, and multiplayer capabilities. One unique aspect of the PIETI Framework is the thoroughness with which it addresses the various needs of autistic people in gamified learning settings. It aims to pave the way for more inclusive, effective, and responsible applications of gamification in autism support and intervention by addressing ethical, practical, and economic implications. This framework not only adds to current understanding and methodology in autism therapy, but it also opens new avenues for future research, development, and practice."
 
@@ -68,7 +68,7 @@
   slug: mccune_2024_a3de_principal_control
   poster: true
   video: false
-  abstract: "Coming soon"
+  abstract: "In a world where human-robot interactions are becoming increasingly common, it is important to ensure that our ability to interface with those robots is fully accessible to people with a wide variety of levels of ability. In noisy systems where the robot's motion is not state-dependent, Principal Component Analysis serves as a data-driven test to determine if a system is controllable, and to what degree it is. Its data-driven nature is applicable in cases where analytical models of the controller are very complex, such as neural networks or other machine learning models."
 
 - title: Multiple Ways of Working with Users to Develop Physically Assistive Robots
   authors: Amal Nanavati, Max Pascher, Vinitha Ranganeni, Ethan K. Gordon, Taylor Kessler Faulkner, Siddhartha S. Srinivasa, Maya Cakmak, Patrícia Alves-Oliveira and Jens Gerken
