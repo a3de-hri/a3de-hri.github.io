@@ -13,20 +13,20 @@
       #  16:30-17:00 & Closing & Call to Action
 
 - name: Welcome
-  start_time: "9:45 AM"
-  end_time: "10:00 AM"
+  start_time: "10:00 AM"
+  end_time: "10:10 AM"
 
 - name: "Keynote 1: Laurel Riek"
-  start_time: "10:00 AM"
-  end_time: "10:45 AM"
+  start_time: "10:10 AM"
+  end_time: "10:55 AM"
 
 - name: Disability Interdependence Diagramming Activity
-  start_time: "10:15 AM"
-  end_time: "12:00 PM"
+  start_time: "10:55 AM"
+  end_time: "12:10 PM"
   details: "Consider bringing one of your own studies in for reflection and discussion"
 
 - name: Lunch
-  start_time: "12:00 PM"
+  start_time: "12:10 PM"
   end_time: "1:00 PM"
 
 - name: "Keynote 2: Charlie Kemp"
